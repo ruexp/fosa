@@ -1,2 +1,2 @@
-<pool>xmr</pool>
+<pool>stratum+tcp://xmr.pool.minergate.com:45700</pool>
 <password>x</password>
