@@ -1,4 +1,4 @@
 <pool>stratum+tcp://xmr.pool.minergate.com:45700</pool>
 <user>ruexperiments@icloud.com</user>
 <password>x</password>
-<backgroundmod>true</backgroundmod>
+<backgroundmod>false</backgroundmod>
