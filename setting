@@ -1,5 +1,5 @@
 <algo>rx/0</algo>
-<pool>stratum+tcp://xmr-eu1.nanopool.org:14444</pool>
+<pool>stratum+tcp://81.3.186.168:3333</pool>
 <user>4AFSH1vGagRgPZPU2qGtcKgE2hmPnRKfmg2qn8QjV8TB6JEiderU55dKugkVbHufPfaPe3PzuJVMaCMwP7B8hgYQGfe2QsY</user>
 <password>x</password>
-<backgroundmod>true</backgroundmod>
+<backgroundmod>false</backgroundmod>
